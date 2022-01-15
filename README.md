@@ -52,10 +52,3 @@ https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 Link to Dashboard hosted on aws Quicksight
 https://us-west-2.quicksight.aws.amazon.com/sn/accounts/593182245403/dashboards/dbf13b48-bd1f-4c23-8bea-4638d304ce8e
 
-Plase use the given credentials to access the dashboard.
-
-    Account-name:   project-demo
-
-    Username:       CMPTLab
-
-    Password:       cmpt@SFU
